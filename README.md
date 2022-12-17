@@ -1,4 +1,4 @@
-# Inventory_Management_System
+# Inventory Database
 DBMS College Project made by Ritwik Raj 1AM19CS170
 
 ## After clone or download this project, please follow the instructions
