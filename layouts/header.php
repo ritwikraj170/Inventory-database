@@ -16,10 +16,10 @@
   <body>
   <?php  if ($session->isUserLoggedIn(true)): ?>
     <header id="header">
-      <div class="logo pull-left"> Inventory Management </div>
+      <div class="logo pull-left"> <a href="home.php"> <i class="	glyphicon glyphicon-tower"></i>Inventory Management </div>
       <div class="header-content">
       <div class="header-date pull-left">
-        <strong><?php echo date("Y-F-d  H:i:s");?></strong>
+        <strong><?php  date_default_timezone_set("Asia/Calcutta"); echo date("Y-F-d  H:i:s");?></strong>
       </div>
       <div class="pull-right clearfix">
         <ul class="info-menu list-inline list-unstyled">

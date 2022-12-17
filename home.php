@@ -7,17 +7,14 @@
 <div class="row">
  <div class="col-md-12">
     <div class="panel">
-      <div class="jumbotron text-center">
+      <div class="jumbotron text-center  ">
          <h1>Inventory Records</h1>
          <h5>“We want to turn our inventory faster than our people.”</h5>
       </div>
     </div>
-      <div style="position:fixed; color: black ;bottom:5px; left:570px;border: 2px solid #fc7b5b">
-        <h4>Created by:</h4>
-                 <h5> Ritwik Raj,
-                      Nilesh Srivastava,
-                      Jessy Joyner,
-                      Sahana J</h5>
+      <div style="position:fixed;text-align:center; color: black ;bottom:5px; left:750px">
+                 <h4> © Ritwik Raj 
+                 </h4>
         
       </div>
      </div>
